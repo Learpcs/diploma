@@ -1,0 +1,15 @@
+[submodule "diploma_web"]
+	path = diploma_web
+	url = https://github.com/Learpcs/diploma_web
+[submodule "diploma_latex"]
+	path = diploma_latex
+	url = https://github.com/Learpcs/diploma_latex
+[submodule "diploma_ml"]
+	path = diploma_ml
+	url = https://github.com/Learpcs/diploma_ml
+[submodule "diploma_task"]
+	path = diploma_task
+	url = https://github.com/Learpcs/diploma_task
+[submodule "diploma_presentation"]
+	path = diploma_presentation
+	url = https://github.com/Learpcs/diploma_presentation
